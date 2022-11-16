@@ -101,3 +101,22 @@ margin-left: 159px;
    top: 830px;
     left: 79px; 
 }
+
+
+input[type="password"]{
+    display: block;
+}
+
+
+
+.login-btn{
+    margin: 2rem;
+    color: white;
+    padding: 1rem 10rem;
+    border-radius: 3px;
+    display: flex;
+    
+    background-color: black;
+    width: 6rem;
+    height: 4rem;
+}
