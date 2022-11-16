@@ -18,6 +18,7 @@ body{
     width: 50vw;
     background: url(./assets/Rectangle\ 1.jpg);
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
 
@@ -80,4 +81,23 @@ margin-left: 159px;
 }
 .second-line{
    
+}
+
+
+.login-cover .cover-title{
+    position: relative;
+    bottom: 116px;
+    top: 816px;
+    left: 79px;
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+
+.login-cover .sub-title{
+    color: white;
+    position: relative;
+   top: 830px;
+    left: 79px; 
 }
