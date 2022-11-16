@@ -21,7 +21,7 @@ body{
     overflow: hidden;
 }
 
-
+/* 
 .login-section{
     display: flex;
     flex-direction: column;
@@ -119,4 +119,4 @@ input[type="password"]{
     background-color: black;
     width: 6rem;
     height: 4rem;
-}
+} */
