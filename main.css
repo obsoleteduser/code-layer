@@ -1,0 +1,83 @@
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+}
+
+
+.login-cover{
+    height: 100vh;
+    width: 50vw;
+    background: url(./assets/Rectangle\ 1.jpg);
+    background-repeat: no-repeat;
+}
+
+
+.login-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+    height: 100vh;
+}
+
+
+.login-field{
+    display: flex;
+    flex-direction: column;
+
+}
+
+input{
+    padding: 1rem .2rem;
+    border: transparent;
+}
+
+.brand{
+font-size: 20px;
+font-weight: 600;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 80px;
+margin-left: 159px;
+}
+
+.google-btn{
+    padding: 1rem 6rem;
+    font-size: 1rem;
+}
+
+.sep-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.or-sep{
+    display: inline-block;
+    width: 9rem;
+    height: 1px;
+    text-align: center;
+    margin-top: .3rem;
+
+    background-color: black;
+}
+
+
+.first-line{
+   
+}
+.second-line{
+   
+}
